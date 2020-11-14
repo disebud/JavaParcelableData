@@ -6,10 +6,10 @@ Menggunakan View Radion Grup , Radio Button , Spinner dan tentunya perpindahan D
 
 ### Screenshoot Aplikasi 
 #### Layout Utama
-![Screenshot](https://github.com/disebud/JavaParcelableData/blob/master/Screen%20Shoot/SS-3-RegistrasiDetail_Sukses.PNG?raw=true)
+![Screenshot](https://github.com/disebud/JavaParcelableData/blob/master/Screen%20Shoot/SS-1.PNG?raw=true)
 
 #### Layout Input Registrasi Mahasiswa
-![Screenshot](https://github.com/disebud/JavaParcelableData/blob/master/Screen%20Shoot/SS-3-RegistrasiDetail_Sukses.PNG?raw=true)
+![Screenshot](https://github.com/disebud/JavaParcelableData/blob/master/Screen%20Shoot/SS-2-RegistrasiFinal.PNG?raw=true)
 
 #### Layout Hasil Input / Detail Register
 ![Screenshot](https://github.com/disebud/JavaParcelableData/blob/master/Screen%20Shoot/SS-3-RegistrasiDetail_Sukses.PNG?raw=true)
