@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz Pra Uts - Hafidzan Abi Rafdi</string>
+
+    <string-array name="jenjang_studi">
+        <item>DIPLOMA 3 (D3)</item>
+        <item>SARJANA (S1)</item>
+        <item>MAGISTER (S2)</item>
+    </string-array>
+
+    <string-array name="jurusan_studi">
+        <item>MANAJEMEN INFORMATIKA (MI)</item>
+        <item>KOMPUTER AKUNTANSI (KA)</item>
+        <item>SISTEM INFORMASI (SI)</item>
+        <item>TEKNIK INFORMATIKA (TI)</item>
+        <item>ILMU KOMPUTER (ILKOM)</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
